@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Open+Sans:wght@400;500&display=swap');
+
+body {
+    font-family: "Mulish", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    color: #FFFFFF;
+    background: rgb(0,0,124);
+    background: linear-gradient(90deg, rgba(0,0,124,1) 0%, rgba(0,131,200,1) 86%);
+}
+
+h2 {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+}
+
+#form {
+    flex-basis: 100%;
+    width: 30%;
+}
